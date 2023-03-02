@@ -6,14 +6,18 @@
   "created_at": 1677780477,
   "kind": 1,
   "tags": [
-  	   		["d", "objective"],
+  	   		["d", "objective"], //workorder, project, job offer, task, mission
+  	   		["t", "objective"], //or "willwork4btc" //needed for non-standard structured posts
   	   		["subject", "Please make me a meme"],
   	   		["amount", 20000],
   	   		["r","https://willwork4btc.com/e9753276e5b00d6de55dc4fcbe031a993cb9442cedba9bf78c462a0d7e9ec6f0"]
   	   		["type", 1],
   	   		["compensation_terms", 2],
-  	   		["budget", ] //optional 
+  	   		//optional tags
+  	   		["budget", null] //optional total bitcoin allocated to project
   	   		["expiration", null], // optional timeout period
+  	   		["skills","MEMEING"], //optional
+  	   		["g","<geohash>"] //optional defaults to "earth"
  		  ],
   "content": "dank meme please", //objective description
   "sig": "1a7abf4e84749ff53cb9d057591d20fd3d75a8a7af7af7a801801e75166246f3d45f235c02e1c7ad2f2de46158d49db807a4b8afdc7472cf839238589714bd2e"
