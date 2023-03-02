@@ -1,0 +1,20 @@
+//workorders, job offers, tasks, missions,
+
+{
+  "id": "e9753276e5b00d6de55dc4fcbe031a993cb9442cedba9bf78c462a0d7e9ec6f0", //need new ids
+  "pubkey": "f59e34a01677796784c4d64262a267ad912ab7a2442da46387281a0b905d315b",
+  "created_at": 1677780477,
+  "kind": 1,
+  "tags": [
+  	   		["d", "objective"],
+  	   		["subject", "Please make me a meme"],
+  	   		["amount", 20000],
+  	   		["r","https://willwork4btc.com/e9753276e5b00d6de55dc4fcbe031a993cb9442cedba9bf78c462a0d7e9ec6f0"]
+  	   		["type", 1],
+  	   		["compensation_terms", 2],
+  	   		["budget", ] //optional 
+  	   		["expiration", null], // optional timeout period
+ 		  ],
+  "content": "dank meme please", //objective description
+  "sig": "1a7abf4e84749ff53cb9d057591d20fd3d75a8a7af7af7a801801e75166246f3d45f235c02e1c7ad2f2de46158d49db807a4b8afdc7472cf839238589714bd2e"
+}
