@@ -1,6 +1,9 @@
 README.MD
 
 # What is 'willwork4btc'?
+Do you want to get paid in Bitcoin? Would you be willing to pay people to work for you in Bitcoin? 
+This is why we made "WillWork4BTC".
+
 We are building the bitcoin circular economy one "objective" at a time. Objectives are tasks, jobs, workorders, etc that payout in bitcoin. Anyone can publish an objective that they are willing to pay for in bitcoin. WillWork4BTC attempts to aggregate all posts the NOSTR protocol that are related to a work packet or job that pay in bitcoin. Coordination of the work and/or deliverables is done by the payer and payee via NOSTR. WillWork4BTC does not handle the coordination. Our templates only assist in helping users discovers the objectives.
 
 # What is an objective?
